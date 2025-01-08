@@ -76,5 +76,4 @@
 
 <p dir="auto">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadaziz&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="mahadaziz" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadaziz&theme=dark&hide_border=true" alt="mahadaziz" />
 </p>
